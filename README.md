@@ -1,1 +1,3 @@
 # FastAPI
+Showing the project I did from June 2023 to September 2023 during my 3 Month Python Internship at Starlabs.
+The goal of this project was to create a web application that would scrape data from different websites and show them in a page view. Then to create a Discord Bot, which would take commands on Discord and show the data from the specified website. At the end of the Internship the project is created with Bootstrap, Python and different Python libraries.
